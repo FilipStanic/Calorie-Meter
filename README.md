@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://raw.githubusercontent.com/FilipStanic/Calorie-Meter/master/public/Meter-Calorie-3.0.zip).
+See [Configuration Reference](https://filipstanic.github.io).
